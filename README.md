@@ -1,52 +1,78 @@
-# 코트와 패딩 - Genie Finger
+# 빅데이터 7기 중간프로젝트 i-son👋
 
 <details>
 <summary>🖥 <b>Summary</b></summary><br>
   
-### Team Name - 코트와 패딩
-### Content Name - Genie Finger
-### Team Member & R&R
+### Team Name - 경만과 아이들
+### Content Name - i-son
+### Team Member 
 
 
 <table>
   <tr>
     <td align="center">
     <a href="https://github.com/k-3730">
-    <img src="https://github.com/k-3730.png" width="150px;" alt="홍준"/>
+    <img src="https://github.com/k-3730.png" width="150px;" alt="경"/>
     <br />
     <sub>
-    <b>권홍준</b><br>
-    <b> :bulb: PM 및 컨텐츠 개발</b>
+    <b>백경만</b><br>
+    <b> 🙋‍♂️ 모델 구현 및 발표</b>
     </sub>
     </a>
     <br />
     <td align="center">
-    <a href="https://github.com/dony1220">
-    <img src="https://github.com/dony1220.png" width="150px;" alt="도현"/>
+    <a href=![image](https://github.com/dnddl6962/Genie_Finger/assets/112309620/7ab379d5-78b9-45c2-80d3-6fdb2b3ed4a3)>
+    <img src="https://github.com/dony1220.png" width="150px;" alt="종은"/>
     <br />
     <sub>
-    <b>김도현</b><br>
-    <b>🌟 컨텐츠 개발 및 웹 개발</b>
+    <b>최종은</b><br>
+    <b> 🙋‍♂️ 모델구현 및 깃허브 관리</b>
     </sub>
     </a>
     <td align="center">
-    <a href="https://github.com/dnddl6962">
-    <img src="https://github.com/dnddl6962.png" width="150px;" alt="웅"/>
+    <a href=![image](https://github.com/dnddl6962/Genie_Finger/assets/112309620/7ab379d5-78b9-45c2-80d3-6fdb2b3ed4a3)>
+    <img src="https://github.com/dnddl6962.png" width="150px;" alt="하나"/>
     <br />
     <sub>
-    <b>장 웅</b><br>
-    <b>🌟 웹 개발 및 컨텐츠 개발, 로그 연동</b>
+    <b>장하나</b><br>
+    <b> 🙋‍♀️ 데이터 엔지니어링 및 ppt 제작ppt</b>
     </sub>
     </a>
     <br />
     </td>
     <td align="center">
-    <a href="https://github.com/surplus96">
-    <img src="https://github.com/surplus96.png" width="150px;" alt="태영"/>
+    <a href=![image](https://github.com/dnddl6962/Genie_Finger/assets/112309620/7ab379d5-78b9-45c2-80d3-6fdb2b3ed4a3)>
+    <img src="" width="150px;" alt="찬혁"/>
     <br />
     <sub>
-    <b>최태영</b><br>
-    <b> :bulb: 컨텐츠 개발 및 코드 정제</b>
+    <b>박찬혁</b><br>
+    <b> 🙋‍♂️ 데이터 엔지니어링</b>
+    </sub>
+    </a>
+    <br />
+    </td>    
+    <br />
+    </td>
+      <td align="center">
+    <a href=![image](https://github.com/dnddl6962/Genie_Finger/assets/112309620/7ab379d5-78b9-45c2-80d3-6fdb2b3ed4a3)>
+    <img src="" width="150px;" alt="민아"/>
+    <br />
+    <sub>
+    <b>이민아</b><br>
+    <b> 🙋‍♀️ 웹개발</b>
+    </sub>
+    </a>
+    <br />
+    </td>    
+    <br />
+    </td>
+      <td align="center">
+    <a href=![image](https://github.com/dnddl6962/Genie_Finger/assets/112309620/7ab379d5-78b9-45c2-80d3-6fdb2b3ed4a3)>
+    <img src="" width="150px;" alt="선영"/>
+    <br />
+    <sub>
+    <b>민선영</b><br>
+    <b> 🙋‍♀️ 웹 개발</b>
     </sub>
     </a>
     <br />
@@ -56,6 +82,8 @@
   </tr>
 </table>
 <br/>
+
+
 
 
 <h3 align="left"><b>🛠 Used Tool/Stack 🛠</b></h3>
