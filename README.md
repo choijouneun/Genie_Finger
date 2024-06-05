@@ -164,27 +164,28 @@
 - - -
 ## **🧑 컨텐츠 결과**
 <details>
-<summary><b>🔤English🔤</b></summary>
+<summary><b>🎭그림자 놀이🎭</b></summary>
   <p align='left'>
-    <img src = "https://github.com/dnddl6962/flask/assets/96913965/4990cbec-d143-4cbd-945c-44f50d085166" width = "400px">
-    <img src = "https://github.com/dnddl6962/flask/assets/96913965/a42a78af-f84e-49d1-b06e-5741318cbd36" width = "400px">
+    <img src =  width = "400px">
+    <img src =  width = "400px">
   </p>
 </details>
 
 <br>
 
 <details>
-<summary><b>💯Math💯</b></summary>
+<summary><b>🐭잡아라! 두더지🐭</b></summary>
   <p align='left'>
-    <img src = "https://github.com/dnddl6962/flask/assets/96913965/160bc60d-0f10-4e02-a5d6-45bfb53c9b36" width = "400px">
+    <img src =  width = "400px">
+    <img src =  width = "400px">
 </details>
 
 <br>
 
 <details>
-<summary><b>🧠Thinking Power🧠</b></summary>
+<summary><b>📝한글놀이📝</b></summary>
   <p align='left'>
-    <img src = "https://github.com/dnddl6962/flask/assets/96913965/620b6f60-cdb1-4db4-9af5-f71c8f35cd0d" width = "400px">
-    <img src = "https://github.com/dnddl6962/flask/assets/96913965/d3bb00c8-6222-4ca6-8c9c-812b0c49caad" width = "400px">
+    <img src =  width = "400px">
+    <img src =  width = "400px">
   </p>
 </details>
